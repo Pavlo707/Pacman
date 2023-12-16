@@ -2,8 +2,6 @@
 
 Pacman game built as a Progressive Web App.
 
-🎮 [Play Game](https://vitaliy-bobrov.github.io/pacman-pwa/)
-
 ## Install & run:
 
 Built files are stored in a `dist` folder. To run the game, a static server is needed.
